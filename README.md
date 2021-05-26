@@ -54,3 +54,5 @@ pseudo codigo: Codigo mezclado con palabras o diagramas de flujo
 Definiciones adicionales:
 
 Maquina: El procesador puede ser de un computador o un celular.
+  
+BreakPoint (Punto de parada): Indica al programa en donde quiero detener la ejecución, para mirarlo paso a paso
