@@ -49,9 +49,8 @@ integrated development environment (IDE o Ambiente de desarrollo por su traducci
   
   
 pseudo codigo: Codigo mezclado con palabras o diagramas de flujo
- 
-
-Definiciones adicionales:
+  
+Debug: es ver paso a paso la ejecución de mi programa, para poder ver el valor de las variables en tiempo real
 
 Maquina: El procesador puede ser de un computador o un celular.
   
